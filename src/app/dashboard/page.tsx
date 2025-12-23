@@ -204,7 +204,7 @@ export default function DashboardPage() {
                 </div>
                 <div>
                   <div className="text-xs font-semibold text-gray-600 mb-1">Mobile Number</div>
-                  <div className="text-sm text-gray-900">76946299</div>
+                  <div className="text-sm text-gray-900">76846299</div>
                 </div>
               </div>
             </div>
