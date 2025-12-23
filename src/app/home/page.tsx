@@ -205,8 +205,8 @@ export default function HomePage() {
                         <a href="mailto:aaj062@student.bau.edu.lb" className="text-sm text-blue-600 hover:underline block mt-1 transition-all duration-200 hover:text-blue-800 hover:translate-x-1">
                           aaj062@student.bau.edu.lb
                         </a>
-                        <a href="mailto:Ahmedjbara080@gmal.com" className="text-sm text-blue-600 hover:underline block mt-1 transition-all duration-200 hover:text-blue-800 hover:translate-x-1">
-                          Ahmedjbara080@gmal.com
+                        <a href="mailto:Ahmedjbara080@gmail.com" className="text-sm text-blue-600 hover:underline block mt-1 transition-all duration-200 hover:text-blue-800 hover:translate-x-1">
+                          Ahmedjbara080@gmail.com
                         </a>
                       </div>
                     </div>
