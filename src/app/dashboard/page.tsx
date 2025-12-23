@@ -223,7 +223,7 @@ export default function DashboardPage() {
                 </div>
                 <div>
                   <div className="text-xs font-semibold text-gray-600 mb-1">Place Of Birth</div>
-                  <div className="text-sm text-gray-900">Jeb Jenir</div>
+                  <div className="text-sm text-gray-900">Jeb Jenin</div>
                 </div>
                 <div>
                   <div className="text-xs font-semibold text-gray-600 mb-1">Mother Name</div>
@@ -231,7 +231,7 @@ export default function DashboardPage() {
                 </div>
                 <div>
                   <div className="text-xs font-semibold text-gray-600 mb-1">Record No.</div>
-                  <div className="text-sm text-gray-900">Jeb Jenir 120</div>
+                  <div className="text-sm text-gray-900">Jeb Jenin 120</div>
                 </div>
                 <div>
                   <div className="text-xs font-semibold text-gray-600 mb-1">SSN</div>
