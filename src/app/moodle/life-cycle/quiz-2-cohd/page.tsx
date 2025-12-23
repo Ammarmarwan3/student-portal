@@ -27,7 +27,7 @@ export default function Quiz2COHDPage() {
 
             {/* Final Grade */}
             <h2 className="text-2xl font-bold text-gray-900 mb-8">
-              Your final grade for this quiz is 7.10/15.00.
+              Your final grade for this quiz is 7.30/10.00.
             </h2>
 
             {/* Your Attempts */}
@@ -59,12 +59,12 @@ export default function Quiz2COHDPage() {
                 <div></div>
                 <div className="flex justify-between">
                   <span className="font-semibold text-gray-700">Marks</span>
-                  <span className="text-gray-900">11.83/25.00</span>
+                  <span className="text-gray-900">18.25/25.00</span>
                 </div>
                 <div></div>
                 <div className="flex justify-between">
                   <span className="font-semibold text-gray-700">Grade</span>
-                  <span className="text-gray-900">7.10 out of 15.00 (47%)</span>
+                  <span className="text-gray-900">7.30 out of 10.00 (73%)</span>
                 </div>
               </div>
               <p className="text-sm text-gray-700 mt-4">Review not permitted</p>
