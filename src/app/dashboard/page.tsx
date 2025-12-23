@@ -448,6 +448,22 @@ export default function DashboardPage() {
                     <TableCell className="text-xs text-gray-900 py-2"></TableCell>
                     <TableCell className="text-xs text-gray-900 py-2">Fall 2025 / 2026</TableCell>
                   </TableRow>
+                  <TableRow className="border-b border-gray-200">
+                    <TableCell className="text-xs text-gray-900 py-2">20/01/2025</TableCell>
+                    <TableCell className="text-xs text-gray-900 py-2">25158084</TableCell>
+                    <TableCell className="text-xs text-gray-900 py-2">2066 $</TableCell>
+                    <TableCell className="text-xs text-gray-900 py-2">Dollar Payment</TableCell>
+                    <TableCell className="text-xs text-gray-900 py-2"></TableCell>
+                    <TableCell className="text-xs text-gray-900 py-2">Fall 2025 / 2026</TableCell>
+                  </TableRow>
+                  <TableRow className="bg-gray-50 border-b border-gray-200">
+                    <TableCell className="text-xs text-gray-900 py-2">20/01/2025</TableCell>
+                    <TableCell className="text-xs text-gray-900 py-2">251580389</TableCell>
+                    <TableCell className="text-xs text-gray-900 py-2">243,143,000 LBP</TableCell>
+                    <TableCell className="text-xs text-gray-900 py-2">LBP Payment</TableCell>
+                    <TableCell className="text-xs text-gray-900 py-2"></TableCell>
+                    <TableCell className="text-xs text-gray-900 py-2">Fall 2025 / 2026</TableCell>
+                  </TableRow>
                 </TableBody>
               </Table>
             </div>
