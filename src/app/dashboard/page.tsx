@@ -77,7 +77,7 @@ export default function DashboardPage() {
             </div>
             <div>
               <div className="text-sm text-gray-600 mb-1">Cumulative GPA</div>
-              <div className="text-4xl font-bold text-yellow-500">2.78</div>
+              <div className="text-4xl font-bold text-yellow-500">2.33</div>
             </div>
           </div>
 
@@ -90,7 +90,7 @@ export default function DashboardPage() {
             </div>
             <div>
               <div className="text-sm text-gray-600 mb-1">Current Semester GPA</div>
-              <div className="text-4xl font-bold text-yellow-500">2.78</div>
+              <div className="text-4xl font-bold text-yellow-500">2.33</div>
             </div>
           </div>
 
@@ -133,7 +133,7 @@ export default function DashboardPage() {
                   <AvatarFallback className="bg-gray-200 text-gray-600 text-3xl">AA</AvatarFallback>
                 </Avatar>
                 <h3 className="text-lg font-semibold text-gray-900 mb-0.5">Ahmad Abd Al Rahim</h3>
-                <h3 className="text-lg font-semibold text-gray-900 mb-1">Jabara</h3>
+                <h3 className="text-lg font-semibold text-gray-900 mb-1">Jebara</h3>
                 <p className="text-sm text-gray-600 mb-0.5">Medicine-BEI</p>
                 <p className="text-xs text-gray-500 mb-2">Bachelor in Medicine & Surgery</p>
                 <p className="text-sm text-blue-600 hover:underline cursor-pointer mb-4">aaj062@student.bau.edu.lb</p>
@@ -164,7 +164,7 @@ export default function DashboardPage() {
                   </div>
                   <div>
                     <div className="text-xs font-semibold text-gray-600 mb-1">Last Name</div>
-                    <div className="text-sm text-gray-900">Jabara</div>
+                    <div className="text-sm text-gray-900">Jebara</div>
                   </div>
                   <div>
                     <div className="text-xs font-semibold text-gray-600 mb-1">Arabic Full Name</div>
@@ -227,7 +227,7 @@ export default function DashboardPage() {
                 </div>
                 <div>
                   <div className="text-xs font-semibold text-gray-600 mb-1">Mother Name</div>
-                  <div className="text-sm text-gray-900">Noura Jabara</div>
+                  <div className="text-sm text-gray-900">Noura Jebara</div>
                 </div>
                 <div>
                   <div className="text-xs font-semibold text-gray-600 mb-1">Record No.</div>
