@@ -1,4 +1,4 @@
-"use client";
+f"use client";
 
 export default function FinalPersonalHealthPage() {
   return (
@@ -17,17 +17,17 @@ export default function FinalPersonalHealthPage() {
           <div className="flex-1">
             <h1 className="text-4xl font-bold text-gray-900 mb-8">Int. to Personal Health Fall 25 26</h1>
 
-            {/* Quiz Info */}
+            {/* Exam Info */}
             <div className="space-y-3 mb-8 text-sm text-gray-700">
               <p>Attempts allowed: 1</p>
-              <p>To attempt this quiz you need to know the quiz password</p>
-              <p>This quiz has been configured so that students may only attempt it using the Safe Exam Browser.</p>
+              <p>To attempt this Exam you need to know the Exam password</p>
+              <p>This Exam has been configured so that students may only attempt it using the Safe Exam Browser.</p>
               <p>Time limit: 1 hour 30 mins</p>
             </div>
 
             {/* Final Grade */}
             <h2 className="text-2xl font-bold text-gray-900 mb-8">
-              Your final grade for this quiz is 79.00/100.00.
+              Your final grade for this Exam is 79.00/100.00.
             </h2>
 
             {/* Your Attempts */}
