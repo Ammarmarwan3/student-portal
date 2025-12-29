@@ -1,4 +1,4 @@
-f"use client";
+"use client";
 
 export default function FinalPersonalHealthPage() {
   return (
