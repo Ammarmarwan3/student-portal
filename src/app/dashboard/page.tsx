@@ -77,7 +77,7 @@ export default function DashboardPage() {
             </div>
             <div>
               <div className="text-sm text-gray-600 mb-1">Cumulative GPA</div>
-              <div className="text-4xl font-bold text-yellow-500">2.78</div>
+              <div className="text-4xl font-bold text-yellow-500">2.33</div>
             </div>
           </div>
 
@@ -90,7 +90,7 @@ export default function DashboardPage() {
             </div>
             <div>
               <div className="text-sm text-gray-600 mb-1">Current Semester GPA</div>
-              <div className="text-4xl font-bold text-yellow-500">2.78</div>
+              <div className="text-4xl font-bold text-yellow-500">2.33</div>
             </div>
           </div>
 
